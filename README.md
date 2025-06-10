@@ -3,7 +3,7 @@ A modern, responsive weather application that provides real-time weather informa
 
 
 # Deployed Link to Project
-khushis28/3D-Flip-Portfolio-Card
+https://polite-paprenjak-7aab7b.netlify.app/
 
 
 # Features

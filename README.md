@@ -43,12 +43,23 @@ Error handling for invalid searches
 ![image](https://github.com/user-attachments/assets/ad6bcfe1-07b8-4555-8432-0323f50a8a75)
 
 
-# Technologies Used
-HTML5: Semantic markup structure
-CSS3: Modern styling with gradients and flexbox
-JavaScript (ES6+): Async/await for API calls and DOM manipulation
-OpenWeatherMap API: Real-time weather data
-Google Fonts: Poppins font family for typography
+## 🛠️ Technologies Used
+
+- **HTML5**  
+  Semantic markup structure for clean and accessible web pages.
+
+- **CSS3**  
+  Modern styling using gradients, flexbox, and responsive design techniques.
+
+- **JavaScript (ES6+)**  
+  Utilizes `async/await` for API calls and efficient DOM manipulation.
+
+- **OpenWeatherMap API**  
+  Provides real-time weather data based on city input.
+
+- **Google Fonts**  
+  Uses the **Poppins** font family for clean, modern typography.
+
 
 # Installation
 Clone the repository:

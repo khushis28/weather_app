@@ -13,7 +13,8 @@ Modern UI: Clean gradient design with smooth animations
 # Screenshots
 The app features a beautiful gradient card interface with:
 ![image](https://github.com/user-attachments/assets/7cbd4301-e389-443f-9d68-a8aeccec665a)
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/ad6bcfe1-07b8-4555-8432-0323f50a8a75)
+
 
 
 Clean search input with search button

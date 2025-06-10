@@ -115,7 +115,7 @@ OpenWeatherMap for providing the weather API
 Google Fonts for the Poppins font family
 Weather icons (please add attribution for your icon source)
 Contact
-Project Link: [https://github.com/username/weather-app](https://github.com/khushis28/weather_app/new/main?filename=README.md)
+Project Link: [https://github.com/khushis28/weather-app](https://github.com/khushis28/weather_app/new/main?filename=README.md)
 
 ⭐ Star this repository if you found it helpful!
 

@@ -10,18 +10,18 @@ Error Handling: User-friendly error messages for invalid city names
 Weather Details: Displays temperature, humidity, and wind speed
 Modern UI: Clean gradient design with smooth animations
 
+
 # Screenshots
 The app features a beautiful gradient card interface with:
-![image](https://github.com/user-attachments/assets/7cbd4301-e389-443f-9d68-a8aeccec665a)
-![image](https://github.com/user-attachments/assets/ad6bcfe1-07b8-4555-8432-0323f50a8a75)
-
-
-
 Clean search input with search button
 Large weather icons for visual appeal
 Temperature display in Celsius
 Humidity and wind speed indicators
+![image](https://github.com/user-attachments/assets/7cbd4301-e389-443f-9d68-a8aeccec665a)
+
 Error handling for invalid searches
+![image](https://github.com/user-attachments/assets/ad6bcfe1-07b8-4555-8432-0323f50a8a75)
+
 
 # Technologies Used
 HTML5: Semantic markup structure
@@ -36,10 +36,12 @@ Clone the repository:
 git clone https://github.com/username/weather-app.git
 cd weather-app
 
-Get your API key from OpenWeatherMap:
+
+# Get your API key from OpenWeatherMap:
 Sign up for a free account
 Generate your API key
 Replace the apiKey variable in the JavaScript code with your key
+
 
 # Set up the project structure:
 weather-app/
@@ -58,6 +60,7 @@ weather-app/
 Add the required weather icons to the images/ folder
 Open index.html in your web browser or serve it using a local server
 
+
 # Usage
 Enter a city name in the search input field
 Click the search button or press Enter
@@ -69,6 +72,7 @@ Weather condition with icon
 Humidity percentage
 Wind speed
 
+
 # API Configuration
 The app uses the OpenWeatherMap API. To set up:
 Replace the apiKey variable with your actual API key:
@@ -79,6 +83,7 @@ javascript
 const apiUrl = "https://api.openweathermap.org/data/2.5/weather?&units=metric&q=";
 Weather Conditions Supported
 
+
 # The app displays different icons for various weather conditions:
 
 ☀️ Clear sky
@@ -86,6 +91,7 @@ Weather Conditions Supported
 🌧️ Rain
 🌦️ Drizzle
 🌫️ Mist/Fog
+
 
 # CSS Features
 Gradient Background: Beautiful linear gradient from teal to purple
@@ -99,6 +105,7 @@ Error Handling: Graceful handling of invalid city names
 DOM Manipulation: Dynamic content updates
 Event Listeners: Interactive search functionality
 
+
 # Browser Compatibility
 Chrome (recommended)
 Firefox
@@ -107,11 +114,13 @@ Edge
 Mobile browsers
 Contributing
 
+
 # Fork the repository
 Create a feature branch (git checkout -b feature/amazing-feature)
 Commit your changes (git commit -m 'Add some amazing feature')
 Push to the branch (git push origin feature/amazing-feature)
 Open a Pull Request
+
 
 # Acknowledgments
 OpenWeatherMap for providing the weather API
@@ -120,5 +129,5 @@ Weather icons (please add attribution for your icon source)
 Contact
 Project Link: [https://github.com/khushis28/weather-app](https://github.com/khushis28/weather_app/new/main?filename=README.md)
 
-⭐ Star this repository if you found it helpful!
+⭐⭐ Star this repository if you found it helpful!  ⭐⭐
 

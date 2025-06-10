@@ -7,13 +7,28 @@ https://polite-paprenjak-7aab7b.netlify.app/
 
 
 # Features
-Real-time Weather Data: Get current weather information using OpenWeatherMap API
-City Search: Search for weather information by city name
-Dynamic Weather Icons: Visual weather representations that change based on conditions
-Responsive Design: Works seamlessly on desktop and mobile devices
-Error Handling: User-friendly error messages for invalid city names
-Weather Details: Displays temperature, humidity, and wind speed
-Modern UI: Clean gradient design with smooth animations
+
+- **Real-time Weather Data**  
+  Get current weather information using the OpenWeatherMap API.
+
+- **City Search**  
+  Search for weather information by entering the city name.
+
+- **Dynamic Weather Icons**  
+  Visual weather icons change based on real-time weather conditions.
+
+- **Responsive Design**  
+  Fully responsive layout that works seamlessly on both desktop and mobile devices.
+
+- **Error Handling**  
+  User-friendly error messages for invalid or unknown city names.
+
+- **Weather Details**  
+  Displays key weather metrics like temperature, humidity, and wind speed.
+
+- **Modern UI**  
+  Clean gradient-based user interface with smooth animations for an engaging experience.
+
 
 
 # Screenshots
